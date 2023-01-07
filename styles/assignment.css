@@ -69,12 +69,13 @@
   }
 .person-content ul {
     list-style: none;
-    position: absolute;
+    padding-left: 8px;
   }
 .person-content ul li {
     line-height: 30px;
     color: #444343;
     font-size: 16px;
+    padding-right: 20px;
   }
 .person-content ul li i {
     color: #16d887;
@@ -187,6 +188,7 @@ footer {
   }
   .left-side-content ul {
     list-style: none;
+    padding-left: 2px;
   }
   .left-side-content ul li {
     padding-bottom: 16px;
