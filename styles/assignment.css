@@ -69,6 +69,7 @@
   }
 .person-content ul {
     list-style: none;
+    position: absolute;
   }
 .person-content ul li {
     line-height: 30px;
@@ -219,7 +220,7 @@ footer {
   .right-side-content input::placeholder {
     color: #ffff;
     text-align: left;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 16px;
   }
 .right-side-content .secondary-btn {   
