@@ -43,10 +43,12 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    padding-bottom: 20px;
   }
   
 .person-image {
     margin-left: 206px;
+
   }
 .person-content {
     width: 420px;
@@ -126,8 +128,7 @@
   background-position: center, center;
   background-repeat: no-repeat, no-repeat;
   background-blend-mode: overlay;
-  background-size: cover;
-  min-height: 40vh;
+  min-height: 38vh;
   position: relative;
   width: 85%;
   margin: auto;
